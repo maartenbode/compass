@@ -9,6 +9,16 @@ Full-stack JavaScript scaffold.
 - Boot the server `npm run server`
 - Run the Webpack server `npm run start`
 
+## Shoulders
+
+Compass is built with these great libraries.
+
+- Express
+- React
+- Redux
+- React Router
+- Mongoose
+
 ## Usage
 
 - To be added.
